@@ -45,3 +45,16 @@ h2{
 	padding-top: 40px;
 	padding-bottom: 20px;
 }
+.works{
+	height: 200px;
+	width: 350px;
+	border: solid #262626;
+}
+.individuals {
+	text-decoration: none;
+	color: #9933ff;
+}
+.showcase{
+	height: 400px;
+	width: 750px;
+}
