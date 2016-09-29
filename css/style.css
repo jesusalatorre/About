@@ -50,9 +50,10 @@ h2{
 	width: 350px;
 	border: solid #262626;
 }
-.individuals {
+a {
 	text-decoration: none;
 	color: #9933ff;
+	font-weight: bold;
 }
 .showcase{
 	height: 400px;
