@@ -50,6 +50,17 @@ h2{
 	width: 350px;
 	border: solid #262626;
 }
+.works1{
+	height: 350px;
+	width: 200px;
+	border:solid #262626;
+}
+.drawings{
+	height: 300px;
+	width: 170px;
+	border:solid #262626;
+	margin: 3px;
+}
 a {
 	text-decoration: none;
 	color: #9933ff;
