@@ -13,9 +13,10 @@ ul{
 
 .nav_container{
 	height: 100%;
-	width: 25%;
+	max-width: 25%;
     background-color: #262626;
     position: fixed;
+    display: inline-block;
 	
 }
 li a {
@@ -37,6 +38,7 @@ li a:hover {
 	position: relative;
 	left: 27%;
 	text-align: left;
+	display: inline-block;
 }
 h2{
 	font-weight: bolder;
@@ -44,12 +46,11 @@ h2{
 	margin: 0;
 }
 #profile{
-	height: 300px;
 	width: 60%;
 	position: relative;
 	left: 20%;
-	padding-top: 40px;
-	padding-bottom: 20px;
+	padding-top: 5%;
+	padding-bottom: 5%;
 }
 .works{
 	height: 200px;
@@ -73,6 +74,6 @@ a {
 	font-weight: bold;
 }
 .showcase{
-	height: 400px;
-	width: 750px;
+	max-height: 90%;
+	max-width: 95%;
 }
