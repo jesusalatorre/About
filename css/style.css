@@ -53,18 +53,13 @@ h2{
 	padding-bottom: 5%;
 }
 .works{
-	height: 200px;
-	width: 350px;
+	height: 30%;
+	width: 45%;
 	border: solid #262626;
 }
-.works1{
-	height: 350px;
-	width: 200px;
-	border:solid #262626;
-}
 .drawings{
-	height: 300px;
-	width: 170px;
+	max-height: 40%;
+	max-width: 20%;
 	border:solid #262626;
 	margin: 3px;
 }
